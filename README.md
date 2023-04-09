@@ -1,2 +1,2 @@
-# learner-to-study-cpp
+# learner-to-study-PYTHON
 beginner
